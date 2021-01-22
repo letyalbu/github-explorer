@@ -6,7 +6,7 @@
   <p>Dashboard</p>
   <img src="/img_readme/Repository.png" alt="Repository" width=500/>
   <p>Repository</p>
-<div/>
+</div>
 
 How to use:
 1. `git clone https://github.com/letyalbu/github-explorer.git`
