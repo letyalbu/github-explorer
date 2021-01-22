@@ -4,7 +4,7 @@
 <div align="center">
   <img src="/img_readme/Dashboard.png" alt="Dashboard" width=500/>
   <p>Dashboard</p>
-  <img src="/img_readme/Repository.png" alt="Repository" width=500/>
+  <img src="/img_readme/Repository.png" alt="Repository" width=600/>
   <p>Repository</p>
 </div>
 
