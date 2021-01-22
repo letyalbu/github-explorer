@@ -1,5 +1,5 @@
 <h1 align="center">Github Explorer</h1>
-<p align="center">🚀 A github explorer usign ReactJS</p>
+<p align="center">🚀 A github explorer using ReactJS</p>
 
 <div align="center">
   <img src="/img_readme/Dashboard.png" alt="Dashboard" width=500/>
